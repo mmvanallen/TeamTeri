@@ -1,5 +1,5 @@
-ACCOUNT=<account_email>
-PROJECT=<project_id>
+ACCOUNT=<michelle.harnackvanallen@gmail.com>
+PROJECT=<galaxy-cloud-demo-172217>
 
 ID=1
 NUM_AS_CLIENTS=2                        # set the number of GCE VM instances of Galaxy
